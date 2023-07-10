@@ -4,15 +4,15 @@ html {
 
 @font-face {
     font-family: "Next Art";
-    src: url("../fonts/NEXT ART_Regular.otf");
+    src: url("../assets/fonts/NEXT ART_Regular.otf");
 }
 @font-face {
     font-family: "Next Art Lite";
-    src: url("../fonts/NEXT ART_Light.otf");
+    src: url("../assets/fonts/NEXT ART_Light.otf");
 }
 @font-face {
     font-family: "Arodora Pro Lite";
-    src: url("../fonts/ArodoraPro-Light.otf");
+    src: url("../assets/fonts/ArodoraPro-Light.otf");
 }
 body {
     font-family: 'Arodora', sans-serif;
